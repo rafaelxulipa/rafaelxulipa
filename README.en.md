@@ -35,100 +35,106 @@ I turn bugs into features and ideas into code — sometimes with elegance, somet
 ---
 
 ### ⚙️ Tech Stack
-<div align="center"><br>
+<div align="center">
 
-<!-- Front-end -->
-<p><b>Front-end</b></p>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="Js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <figcaption>JavaScript</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="Ts" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <figcaption>TypeScript</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <figcaption>React</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="Nextjs" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <figcaption>Next.js</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="React Native" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <figcaption>React Native</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="HTML" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <figcaption>HTML5</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="CSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <figcaption>CSS3</figcaption>
-</figure>
+  <!-- Front-end -->
+  <p><b>Front-end</b></p>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); gap: 15px; justify-items: center;">
+    <div style="text-align:center;">
+      <img alt="Js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <div>JavaScript</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="Ts" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+      <div>TypeScript</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+      <div>React</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="Nextjs" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+      <div>Next.js</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="React Native" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+      <div>React Native</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="HTML" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <div>HTML5</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="CSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <div>CSS3</div>
+    </div>
+  </div>
 
-<br><br>
+  <br><br>
 
-<!-- Back-end & DB -->
-<p><b>Back-end & DB</b></p>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="Nodejs" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <figcaption>Node.js</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <figcaption>Python</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="Java" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <figcaption>Java</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="C" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <figcaption>C</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="Firebase" height="35" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-  <figcaption>Firebase</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="MongoDB" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <figcaption>MongoDB</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <figcaption>MySQL</figcaption>
-</figure>
+  <!-- Back-end & DB -->
+  <p><b>Back-end & DB</b></p>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); gap: 15px; justify-items: center;">
+    <div style="text-align:center;">
+      <img alt="Nodejs" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <div>Node.js</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <div>Python</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="Java" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <div>Java</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="C" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+      <div>C</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="Firebase" height="35" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+      <div>Firebase</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="MongoDB" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+      <div>MongoDB</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <div>MySQL</div>
+    </div>
+  </div>
 
-<br><br>
+  <br><br>
 
-<!-- Tools & Others -->
-<p><b>Tools & Others</b></p>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <figcaption>Git</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="Docker" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <figcaption>Docker</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="Linux" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <figcaption>Linux</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="Jira" height="35" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg">
-  <figcaption>Jira</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="ClickUp" height="35" src="./icons/clickuup.svg">
-  <figcaption>ClickUp</figcaption>
-</figure>
-<figure style="display:inline-block; margin:10px; text-align:center;">
-  <img alt="YouTrack" height="35" src="./icons/JBYOUTRACK-2.png">
-  <figcaption>YouTrack</figcaption>
-</figure>
+  <!-- Tools & Others -->
+  <p><b>Tools & Others</b></p>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); gap: 15px; justify-items: center;">
+    <div style="text-align:center;">
+      <img alt="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <div>Git</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="Docker" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+      <div>Docker</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="Linux" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      <div>Linux</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="Jira" height="35" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg">
+      <div>Jira</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="ClickUp" height="35" src="./icons/clickuup.svg">
+      <div>ClickUp</div>
+    </div>
+    <div style="text-align:center;">
+      <img alt="YouTrack" height="35" src="./icons/JBYOUTRACK-2.png">
+      <div>YouTrack</div>
+    </div>
+  </div>
 
 </div>
 
