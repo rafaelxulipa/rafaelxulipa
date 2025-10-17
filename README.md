@@ -136,12 +136,11 @@ Transformo bugs em features e ideias em código — às vezes com elegância, à
 
 ### 📊 Minhas Estatísticas
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rafaelxulipa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxulipa&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=7200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafaelxulipa&theme=tokyonight&no-frame=true&margin-w=10" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rafaelxulipa&theme=tokyonight&no-frame=true&margin-w=20&margin-h=20&column=5&row=1" alt="trophies"/>
 </p>
 
 ---
@@ -180,4 +179,9 @@ Transformo bugs em features e ideias em código — às vezes com elegância, à
   <strong>🇧🇷 Português</strong> |
   <a href="README.en.md">🇺🇸 English</a> |
   <a href="README.es.md">🇪🇸 Español</a>
+</p>
+
+
+<p align="center">
+  <img src="./imgs/persona-rainy-day.gif" alt="rainy day">
 </p>
