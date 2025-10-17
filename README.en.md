@@ -5,9 +5,13 @@
   <a href="README.es.md">🇪🇸 Español</a>
 </p>
 
-<!-- Main banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hey!+I'm+Otávio+Rafael+👋;Fullstack+Developer+%7C+Tech+Tinkerer;Coffee+%2B+Code+%3D+Life;If+it+doesn't+work...+try+a+hack!">
+<!-- Banner principal - Inglês -->
+<p align="center" style="width: 100%;">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=900&lines=Hey!+I'm+Otávio+Rafael+👋;Fullstack+Developer+%7C+Tech+Tinkerer;Coffee+%2B+Code+%3D+Life;If+it+doesn't+work...+try+a+gambiarra!" 
+    alt="Typing animation of Otávio Rafael intro in English"
+    style="max-width: 100%; height: auto; display: block;"
+  />
 </p>
 
 ---
@@ -31,25 +35,109 @@ I turn bugs into features and ideas into code — sometimes with elegance, somet
 ---
 
 ### ⚙️ Tech Stack
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ts" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Nodejs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="groot" height="120" src="https://i.pinimg.com/originals/9a/27/7e/9a277e3a5b70cef77f91f9912e890b44.gif">
+<div align="center"><br>
+
+<!-- Front-end -->
+<p><b>Front-end</b></p>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="Js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <figcaption>JavaScript</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="Ts" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <figcaption>TypeScript</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <figcaption>React</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="Nextjs" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <figcaption>Next.js</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="React Native" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <figcaption>React Native</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="HTML" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <figcaption>HTML5</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="CSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <figcaption>CSS3</figcaption>
+</figure>
+
+<br><br>
+
+<!-- Back-end & DB -->
+<p><b>Back-end & DB</b></p>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="Nodejs" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <figcaption>Node.js</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <figcaption>Python</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="Java" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <figcaption>Java</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="C" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <figcaption>C</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="Firebase" height="35" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+  <figcaption>Firebase</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="MongoDB" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <figcaption>MongoDB</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <figcaption>MySQL</figcaption>
+</figure>
+
+<br><br>
+
+<!-- Tools & Others -->
+<p><b>Tools & Others</b></p>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <figcaption>Git</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="Docker" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <figcaption>Docker</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="Linux" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <figcaption>Linux</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="Jira" height="35" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg">
+  <figcaption>Jira</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="ClickUp" height="35" src="./icons/clickuup.svg">
+  <figcaption>ClickUp</figcaption>
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+  <img alt="YouTrack" height="35" src="./icons/JBYOUTRACK-2.png">
+  <figcaption>YouTrack</figcaption>
+</figure>
+
 </div>
 
 ---
 
 ### 📊 Stats
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rafaelxulipa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxulipa&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rafaelxulipa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxulipa&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=7200"/>
 </p>
 
 <p align="center">
