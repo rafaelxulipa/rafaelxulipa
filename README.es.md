@@ -1,36 +1,36 @@
 <p align="right">
   🌎 
-  <strong>🇧🇷 Português</strong> |
+  <a href="README.md">🇧🇷 Português</a> |
   <a href="README.en.md">🇺🇸 English</a> |
-  <a href="README.es.md">🇪🇸 Español</a>
+  <strong>🇪🇸 Español</strong>
 </p>
 
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hey!+I'm+Otávio+Rafael+👋;Fullstack+Developer+%7C+Tech+Tinkerer;Coffee+%2B+Code+%3D+Life;If+it+doesn't+work...+try+a+gambiarra!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+Otávio+Rafael+👋;Desarrollador+Fullstack+%7C+Creativo+Tech;Café+%2B+Código+%3D+Vida;Si+no+funciona...+haz+una+chapuza!">
 </p>
 
 ---
 
-<h3 align="center">💻 Desenvolvedor Fullstack | Solucionador Criativo | Movido a Café ☕</h3>
+<h3 align="center">💻 Desarrollador Fullstack | Solucionador Creativo | Impulsado por Café ☕</h3>
 
 <p align="center">
-  <em>"Se não funcionou, é porque a gambiarra não foi bem feita."</em>
+  <em>"Si no funciona, es porque la chapuza no estuvo bien hecha."</em>
 </p>
 
 ---
 
-### 🚀 Sobre mim  
-Sou um desenvolvedor **Fullstack** apaixonado por criar soluções criativas e funcionais.  
-Transformo bugs em features e ideias em código — às vezes com elegância, às vezes com gambiarra (mas sempre com estilo 😎).  
+### 🚀 Sobre mí  
+Soy un **desarrollador Fullstack** apasionado por crear soluciones creativas y funcionales.  
+Transformo errores en funciones y ideas en código — a veces con elegancia, otras con una *chapuza* (¡pero siempre con estilo! 😎).  
 
-🧩 Tecnologias que domino: React, Node.js, PHP, Python, TypeScript  
-🎯 Objetivo: escrever código limpo (mas se não der, que pelo menos funcione)  
-📍 Local: Brasil 🌎  
+🧩 Tecnologías: React, Node.js, PHP, Python, TypeScript  
+🎯 Objetivo: escribir código limpio (pero si no, que al menos funcione)  
+📍 Ubicación: Brasil 🌎  
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Stack Tecnológico
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ts" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -46,7 +46,7 @@ Transformo bugs em features e ideias em código — às vezes com elegância, à
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 Estadísticas
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rafaelxulipa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxulipa&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -58,16 +58,16 @@ Transformo bugs em features e ideias em código — às vezes com elegância, à
 
 ---
 
-### 🔥 Projetos em Destaque
+### 🔥 Proyectos Destacados
 <p align="center">
-  🚀 <a href="https://portfolio.or.app.br/">Portfólio Pessoal</a> — site com animações e transições modernas.<br>
-  🧩 <a href="https://redacao-ai.or.app.br/">Redação com IA</a> — site em Next.js para corrigir redações com IA.<br>
-  📱 <a href="https://matematica.or.app.br/">Plataforma Educacional</a> — para ajudar estudantes do ENEM no Brasil.
+  🚀 <a href="https://portfolio.or.app.br/">Portafolio Personal</a> — sitio con animaciones y transiciones modernas.<br>
+  🧩 <a href="https://redacao-ai.or.app.br/">Redacción con IA</a> — aplicación Next.js que corrige textos con inteligencia artificial.<br>
+  📱 <a href="https://matematica.or.app.br/">Plataforma Educativa</a> — ayuda a estudiantes a prepararse para el ENEM.
 </p>
 
 ---
 
-### ☕ Onde me encontrar
+### ☕ Dónde encontrarme
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCQMPI26g2FawE2TnjR6P1Mg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://instagram.com/rafaelxulipa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -82,14 +82,14 @@ Transformo bugs em features e ideias em código — às vezes com elegância, à
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Code.+Debug.+Repeat.+💡;There’s+no+bug,+only+undocumented+features.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Código.+Depura.+Repite.+💡;No+hay+bugs,+solo+funciones+no+documentadas.">
 </div>
 
 ---
 
 <p align="center">
   🌎 
-  <strong>🇧🇷 Português</strong> |
+  <a href="README.md">🇧🇷 Português</a> |
   <a href="README.en.md">🇺🇸 English</a> |
-  <a href="README.es.md">🇪🇸 Español</a>
+  <strong>🇪🇸 Español</strong>
 </p>

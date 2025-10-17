@@ -1,32 +1,32 @@
 <p align="right">
   🌎 
-  <strong>🇧🇷 Português</strong> |
-  <a href="README.en.md">🇺🇸 English</a> |
+  <a href="README.md">🇧🇷 Português</a> |
+  <strong>🇺🇸 English</strong> |
   <a href="README.es.md">🇪🇸 Español</a>
 </p>
 
-<!-- Banner principal -->
+<!-- Main banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hey!+I'm+Otávio+Rafael+👋;Fullstack+Developer+%7C+Tech+Tinkerer;Coffee+%2B+Code+%3D+Life;If+it+doesn't+work...+try+a+gambiarra!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hey!+I'm+Otávio+Rafael+👋;Fullstack+Developer+%7C+Tech+Tinkerer;Coffee+%2B+Code+%3D+Life;If+it+doesn't+work...+try+a+hack!">
 </p>
 
 ---
 
-<h3 align="center">💻 Desenvolvedor Fullstack | Solucionador Criativo | Movido a Café ☕</h3>
+<h3 align="center">💻 Fullstack Developer | Creative Problem Solver | Fueled by Coffee ☕</h3>
 
 <p align="center">
-  <em>"Se não funcionou, é porque a gambiarra não foi bem feita."</em>
+  <em>"If it didn’t work, the hack wasn’t done right."</em>
 </p>
 
 ---
 
-### 🚀 Sobre mim  
-Sou um desenvolvedor **Fullstack** apaixonado por criar soluções criativas e funcionais.  
-Transformo bugs em features e ideias em código — às vezes com elegância, às vezes com gambiarra (mas sempre com estilo 😎).  
+### 🚀 About Me  
+I’m a **Fullstack Developer** passionate about building creative and functional solutions.  
+I turn bugs into features and ideas into code — sometimes with elegance, sometimes with a hack (but always with style 😎).  
 
-🧩 Tecnologias que domino: React, Node.js, PHP, Python, TypeScript  
-🎯 Objetivo: escrever código limpo (mas se não der, que pelo menos funcione)  
-📍 Local: Brasil 🌎  
+🧩 Tech I work with: React, Node.js, PHP, Python, TypeScript  
+🎯 Goal: Write clean code (but if it doesn’t work, make it *work anyway*)  
+📍 Location: Brazil 🌎  
 
 ---
 
@@ -46,7 +46,7 @@ Transformo bugs em features e ideias em código — às vezes com elegância, à
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 Stats
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rafaelxulipa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxulipa&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -58,16 +58,16 @@ Transformo bugs em features e ideias em código — às vezes com elegância, à
 
 ---
 
-### 🔥 Projetos em Destaque
+### 🔥 Featured Projects
 <p align="center">
-  🚀 <a href="https://portfolio.or.app.br/">Portfólio Pessoal</a> — site com animações e transições modernas.<br>
-  🧩 <a href="https://redacao-ai.or.app.br/">Redação com IA</a> — site em Next.js para corrigir redações com IA.<br>
-  📱 <a href="https://matematica.or.app.br/">Plataforma Educacional</a> — para ajudar estudantes do ENEM no Brasil.
+  🚀 <a href="https://portfolio.or.app.br/">Personal Portfolio</a> — modern animations and transitions.<br>
+  🧩 <a href="https://redacao-ai.or.app.br/">AI Essay Corrector</a> — Next.js app that reviews essays using AI.<br>
+  📱 <a href="https://matematica.or.app.br/">Educational Platform</a> — helping students prepare for ENEM in Brazil.
 </p>
 
 ---
 
-### ☕ Onde me encontrar
+### ☕ Let's Connect
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCQMPI26g2FawE2TnjR6P1Mg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://instagram.com/rafaelxulipa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -89,7 +89,7 @@ Transformo bugs em features e ideias em código — às vezes com elegância, à
 
 <p align="center">
   🌎 
-  <strong>🇧🇷 Português</strong> |
-  <a href="README.en.md">🇺🇸 English</a> |
+  <a href="README.md">🇧🇷 Português</a> |
+  <strong>🇺🇸 English</strong> |
   <a href="README.es.md">🇪🇸 Español</a>
 </p>
