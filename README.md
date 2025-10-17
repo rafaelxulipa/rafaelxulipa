@@ -28,7 +28,7 @@
 Sou um desenvolvedor **Fullstack** apaixonado por criar soluções criativas e funcionais.  
 Transformo bugs em features e ideias em código — às vezes com elegância, às vezes com gambiarra (mas sempre com estilo 😎).  
 
-🧩 Tecnologias que domino: React, Node.js, PHP, Python, TypeScript  
+🧩 Tecnologias que domino: React, Node.js, PHP, Angular, React Native, TypeScript  
 🎯 Objetivo: escrever código limpo (mas se não der, que pelo menos funcione)  
 📍 Local: Brasil 🌎  
 

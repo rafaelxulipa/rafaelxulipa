@@ -28,7 +28,7 @@
 I’m a **Fullstack Developer** passionate about building creative and functional solutions.  
 I turn bugs into features and ideas into code — sometimes with elegance, sometimes with a hack (but always with style 😎).  
 
-🧩 Tech I work with: React, Node.js, PHP, Python, TypeScript  
+🧩 Tech I work with: React, Node.js, PHP, Angular, React Native, TypeScript 
 🎯 Goal: Write clean code (but if it doesn’t work, make it *work anyway*)  
 📍 Location: Brazil 🌎  
 
