@@ -60,17 +60,6 @@ Transformo bugs em features e ideias em código — às vezes com elegância, à
 
 ---
 
-### 📊 Minhas Estatísticas
-<p align="center">
-  <img height="165em" src="./generated/languages.svg"/>
-</p>
-
-<p align="center">
-  <img src="./generated/achievements.svg" alt="achievements"/>
-</p>
-
----
-
 ### 🔥 Projetos em Destaque
 <p align="center">
   🚀 <a href="https://portfolio.or.app.br/">Portfólio Pessoal</a> — site com animações e transições modernas.<br>
@@ -95,7 +84,7 @@ Transformo bugs em features e ideias em código — às vezes com elegância, à
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Code.+Debug.+Repeat.+💡;There’s+no+bug,+only+undocumented+features.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Código.+Debuga.+Repete.+💡;Não+existe+bug,+só+feature+não+documentada.">
 </div>
 
 ---

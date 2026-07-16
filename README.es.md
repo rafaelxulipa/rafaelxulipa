@@ -60,17 +60,6 @@ Transformo errores en funciones y ideas en código — a veces con elegancia, ot
 
 ---
 
-### 📊 Estadísticas
-<p align="center">
-  <img height="165em" src="./generated/languages.svg"/>
-</p>
-
-<p align="center">
-  <img src="./generated/achievements.svg" alt="achievements"/>
-</p>
-
----
-
 ### 🔥 Proyectos Destacados
 <p align="center">
   🚀 <a href="https://portfolio.or.app.br/">Portafolio Personal</a> — sitio con animaciones y transiciones modernas.<br>

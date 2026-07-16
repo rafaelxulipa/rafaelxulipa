@@ -59,17 +59,6 @@ I turn bugs into features and ideas into code — sometimes with elegance, somet
 
 ---
 
-### 📊 Stats
-<p align="center">
-  <img height="165em" src="./generated/languages.svg"/>
-</p>
-
-<p align="center">
-  <img src="./generated/achievements.svg" alt="achievements"/>
-</p>
-
----
-
 ### 🔥 Featured Projects
 <p align="center">
   🚀 <a href="https://portfolio.or.app.br/">Personal Portfolio</a> — modern animations and transitions.<br>
