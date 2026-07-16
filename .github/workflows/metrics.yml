@@ -1,0 +1,45 @@
+name: Generate stats SVGs
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: generated/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_threshold: 0%
+
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: generated/achievements.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+
+      - name: Commit generated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated/*.svg
+          git diff --staged --quiet || git commit -m "chore: update stats SVGs [skip ci]"
+          git push

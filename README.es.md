@@ -62,11 +62,11 @@ Transformo errores en funciones y ideas en código — a veces con elegancia, ot
 
 ### 📊 Estadísticas
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxulipa&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=7200"/>
+  <img height="165em" src="./generated/languages.svg"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafaelxulipa&theme=tokyonight&no-frame=true&margin-w=20&margin-h=20&column=5&row=1" alt="trophies"/>
+  <img src="./generated/achievements.svg" alt="achievements"/>
 </p>
 
 ---
@@ -108,5 +108,5 @@ Transformo errores en funciones y ideas en código — a veces con elegancia, ot
 </p>
 
 <p align="center">
-  <img src="./imgs/persona-rainy-day.gif" alt="rainy day">
+  <img src="./imgs/otavio-coffee.png" alt="otavio programando com café">
 </p>
