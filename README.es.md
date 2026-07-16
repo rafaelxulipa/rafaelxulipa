@@ -75,7 +75,7 @@ Transformo errores en funciones y ideas en código — a veces con elegancia, ot
 <p align="center">
   🚀 <a href="https://portfolio.or.app.br/">Portafolio Personal</a> — sitio con animaciones y transiciones modernas.<br>
   🧩 <a href="https://redacao-ai.or.app.br/">Redacción con IA</a> — aplicación Next.js que corrige textos con inteligencia artificial.<br>
-  📱 <a href="https://matematica.or.app.br/">Plataforma Educativa</a> — ayuda a estudiantes a prepararse para el ENEM.
+  📱 <a href="https://aluno.otaviorafael.com.br/">Plataforma Educativa</a> — ayuda a estudiantes a prepararse para el ENEM.
 </p>
 
 ---

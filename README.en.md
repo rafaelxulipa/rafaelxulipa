@@ -74,7 +74,7 @@ I turn bugs into features and ideas into code — sometimes with elegance, somet
 <p align="center">
   🚀 <a href="https://portfolio.or.app.br/">Personal Portfolio</a> — modern animations and transitions.<br>
   🧩 <a href="https://redacao-ai.or.app.br/">AI Essay Corrector</a> — Next.js app that reviews essays using AI.<br>
-  📱 <a href="https://matematica.or.app.br/">Educational Platform</a> — helping students prepare for ENEM in Brazil.
+  📱 <a href="https://aluno.otaviorafael.com.br/">Educational Platform</a> — helping students prepare for ENEM in Brazil.
 </p>
 
 ---

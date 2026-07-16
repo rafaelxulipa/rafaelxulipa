@@ -75,7 +75,7 @@ Transformo bugs em features e ideias em código — às vezes com elegância, à
 <p align="center">
   🚀 <a href="https://portfolio.or.app.br/">Portfólio Pessoal</a> — site com animações e transições modernas.<br>
   🧩 <a href="https://redacao-ai.or.app.br/">Redação com IA</a> — site em Next.js para corrigir redações com IA.<br>
-  📱 <a href="https://matematica.or.app.br/">Plataforma Educacional</a> — para ajudar estudantes do ENEM no Brasil.
+  📱 <a href="https://aluno.otaviorafael.com.br/">Plataforma Educacional</a> — para ajudar estudantes do ENEM no Brasil.
 </p>
 
 ---
